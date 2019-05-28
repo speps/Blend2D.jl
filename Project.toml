@@ -1,0 +1,10 @@
+name = "Blend2D"
+uuid = "19fe3460-594b-11e9-2b58-0bfbb74fef89"
+authors = ["Rémi Gillig <remigillig@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+BinDeps = "9e28174c-4ba2-5203-b857-d8d62c4213ee"
+CMakeWrapper = "d5fb7624-851a-54ee-a528-d3f3bac0b4a0"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"

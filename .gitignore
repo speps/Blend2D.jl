@@ -1,0 +1,4 @@
+deps/*
+!deps/build.jl
+!deps/bindings.jl
+src/gen
